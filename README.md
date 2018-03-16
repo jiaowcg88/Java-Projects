@@ -1,7 +1,6 @@
-## Homework 5 - Week 5
 
 ### Motivation
-* Demonstrate your ability to program using interfaces and inner classes in the Java programming language.
+*to program using interfaces and inner classes in the Java programming language.
 
 ### Instructions
 * There are two tasks to complete
@@ -20,13 +19,4 @@
         - Note, to become a five-star chef takes high precision when cooking.  Unfortunately the `Oven` isn't perfectly calibrated and so the temperature set often fluctuates.
         - Note, every great chef has a great sous-chef.  Use your [SousChef](src/main/java/edu/nyu/cs9053/homework5/SousChef.java) wisely!
         - Note, you need not (and must not) use `Thread`/`synchronized` or any other concurrency pattern for this assignment. They exist within the provided code but you will not need to program them yourself (this assignment can be done 100% with things we've already learned in lecture).     
-    - Fix the leaky kitchen [Faucet](src/main/java/edu/nyu/cs9053/homework5/memory/Faucet.java) such that you eliminate the inner class leak.
-
-### Implementation
-* Ensure your code is correct by compiling and testing it
-* A portion of your grade will be based upon readability and organization of your code.
-    - Follow the naming guidelines of lecture
-    - Break large functions into multiple functions based on logical organizations
-    
-
-    
+    - Fix the leaky kitchen [Faucet](src/main/java/edu/nyu/cs9053/homework5/memory/Faucet.java) such that you eliminate the inner class leak.    
